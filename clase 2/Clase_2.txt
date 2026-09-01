@@ -1,0 +1,13 @@
+pasos para crear un repositorio: 
+git status 
+    da un estatus del repositorio
+    es como pedirle a tu ascesor la ficha de trabajo 
+git init
+    Crea un repositorio de git en el proyecto donde se ejecute 
+
+git add . 
+    Anade los archivos sin seguimiento al repositorio de git 
+
+git commit -m "mensaje descriptivo" 
+    New version chagend add 
+
